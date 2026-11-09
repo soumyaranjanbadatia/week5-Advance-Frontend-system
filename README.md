@@ -1,4 +1,4 @@
-# 🛒 Rosa Online Shop (React E-Commerce App)
+# 🛒 Cartify (React E-Commerce App)
 
 A modern, full-featured e-commerce front end built with **React**, demonstrating real-world patterns for state management (**Context API, Redux Toolkit, React Query**), a complete multi-step checkout flow, product discovery (search, filtering, sorting, pagination), a persistent wishlist, and performance/SEO best practices.
 
