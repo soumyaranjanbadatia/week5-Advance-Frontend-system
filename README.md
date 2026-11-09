@@ -122,8 +122,6 @@ After a mock order is placed:
 
 ---
 
-## 📂 Project Structure
-
 
 ## 📁 Project Structure
 
@@ -278,7 +276,7 @@ npm run preview
 ![Products](./Screenshots/Products.png)
 
 ### 3. Product Details
-![Product Details](./Screenshots/Product Details.png)
+![Product Details](./Screenshots/Product-Details.png)
 
 ### 4. Shopping Cart
-![Shopping Cart](./Screenshots/Shopping Cart.png)
+![Shopping Cart](./Screenshots/Shopping-cart.png)
